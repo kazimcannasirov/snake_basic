@@ -38,6 +38,9 @@ python snake.py
 - Səs effektləri əlavə etmək
 - Pause/Restart funksiyası
 
+
+ ![screenshot](screenshot.png)
+
 ## 👤 Müəllif
 
 [GitHub](https://github.com/kazimcannasirov)
